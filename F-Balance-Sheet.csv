@@ -1,0 +1,48 @@
+﻿
+metric,2013-12,2014-12,2015-12,2016-12,2017-12
+Assets
+Current assets
+Cash
+Cash and cash equivalents,14468,10757,14272,15905,18492
+Short-term investments,22100,20393,20904,22922,20435
+Total cash,36568,31150,35176,38827,38927
+Receivables,87309,92819,101975,57368,62809
+Inventories,7708,7866,8319,8898,10277
+Other current assets,,,,3368,3889
+Total current assets,131585,131835,145470,108461,115902
+Non-current assets
+"Property, plant and equipment"
+"Gross property, plant and equipment",59092,59260,57629,59876,65189
+Accumulated Depreciation,-31476,-29134,-27466,-27804,-29862
+"Net property, plant and equipment",27616,30126,30163,32072,35327
+Equity and other investments,23663,26574,30317,32133,31320
+Deferred income taxes,13315,13639,11509,9705,10973
+Other long-term assets,5847,6353,7466,55580,64286
+Total non-current assets,70441,76692,79455,129490,141906
+Total assets,202026,208527,224925,237951,257808
+Liabilities and stockholders' equity
+Liabilities
+Current liabilities
+Short-term debt,38063,39172,42998,49669,51621
+Accrued liabilities,2682,2987,2385,,13849
+Deferred revenues,2817,3923,4559,19316,2107
+Other current liabilities,30569,31059,31320,21296,27023
+Total current liabilities,74131,77141,81262,90281,94600
+Non-current liabilities
+Long-term debt,76625,79999,89856,93301,102666
+Deferred taxes liabilities,598,570,502,691,815
+Accrued liabilities,2260,,,,
+Deferred revenues,2534,2686,2833,24395,24711
+Pensions and other benefits,14790,15712,9541,,
+Minority interest,33,27,15,17,28
+Other long-term liabilities,4672,7587,12274,96,98
+Total non-current liabilities,101512,106581,115021,118500,128318
+Total liabilities,175643,183722,196283,208781,222918
+Stockholders' equity
+Common stock,40,40,41,41,41
+Additional paid-in capital,21422,21089,21421,21630,21843
+Retained earnings,23658,24556,14414,15634,21218
+Treasury stock,-506,-848,-977,-1122,-1253
+Accumulated other comprehensive income,-18231,-20032,-6257,-7013,-6959
+Total stockholders' equity,26383,24805,28642,29170,34890
+Total liabilities and stockholders' equity,202026,208527,224925,237951,257808
